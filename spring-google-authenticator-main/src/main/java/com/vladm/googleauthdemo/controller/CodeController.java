@@ -25,7 +25,6 @@ import javax.servlet.http.HttpServletResponse;
 public class CodeController {
 
     private final GoogleAuthenticator gAuth;
-    private final CredentialRepository credentialRepository;
 
     @SneakyThrows
     @GetMapping("/generate/{username}")

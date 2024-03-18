@@ -36,7 +36,7 @@ public class MicrometerConfig {
 //
 //            @Override
 //            public String apiKey() {
-//                return "3ba717f96dbf5c5d26479c8b5f8c7916bed4NRAL"; // for production purposes take it from config file
+//                return ""; // for production purposes take it from config file (License Key)
 //            }
 //
 //            @Override
