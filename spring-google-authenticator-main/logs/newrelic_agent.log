@@ -1,0 +1,54 @@
+2024-03-15T00:39:00,559+0700 [17008 1] com.newrelic INFO: Writing to New Relic log file: C:\Users\tph02\Desktop\2fa\spring-google-authenticator-main\spring-google-authenticator-main\logs\newrelic_agent.log
+2024-03-15T00:39:00,560+0700 [17008 1] com.newrelic INFO: JRE vendor Oracle Corporation version 17.0.3.1
+2024-03-15T00:39:00,560+0700 [17008 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 17.0.3.1+2-LTS-6
+2024-03-15T00:39:00,560+0700 [17008 1] com.newrelic INFO: OS Windows 11 version 10.0 arch amd64
+2024-03-15T00:39:00,560+0700 [17008 1] com.newrelic INFO: Agent Host: T2P-LAP059 IP: 192.168.1.8
+2024-03-15T00:39:00,560+0700 [17008 1] com.newrelic INFO: New Relic Agent v8.9.1 is initializing...
+2024-03-15T00:39:01,046+0700 [17008 20] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-03-15T00:39:02,336+0700 [17008 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-03-15T00:39:02,630+0700 [17008 1] com.newrelic INFO: Setting audit_mode to false
+2024-03-15T00:39:02,759+0700 [17008 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is C:\Users\tph02\Desktop\2fa\spring-google-authenticator-main\spring-google-authenticator-main\.\newrelic.yml
+2024-03-15T00:39:02,766+0700 [17008 1] com.newrelic INFO: New Relic Agent v8.9.1 has started
+2024-03-15T00:39:02,766+0700 [17008 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@73a28541
+2024-03-15T00:39:02,766+0700 [17008 1] com.newrelic INFO: Premain startup complete in 3,037ms
+2024-03-15T00:39:02,768+0700 [17008 1] com.newrelic WARN: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-03-15T00:39:06,527+0700 [17008 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.65
+2024-03-15T00:39:08,131+0700 [17008 1] com.newrelic INFO: ExpiringValueCache instance with timer: [urlToFactoryCache], timer interval: 28,800,000ms created
+2024-03-15T00:39:08,131+0700 [17008 1] com.newrelic INFO: ExpiringValueCache instance with timer: [urlToDatabaseNameCache], timer interval: 28,800,000ms created
+2024-03-15T00:39:11,447+0700 [17008 16] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-03-15T00:39:11,451+0700 [17008 16] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-03-15T00:44:17,381+0700 [5996 1] com.newrelic INFO: Writing to New Relic log file: C:\Users\tph02\Desktop\2fa\spring-google-authenticator-main\spring-google-authenticator-main\logs\newrelic_agent.log
+2024-03-15T00:44:17,381+0700 [5996 1] com.newrelic INFO: JRE vendor Oracle Corporation version 17.0.3.1
+2024-03-15T00:44:17,381+0700 [5996 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 17.0.3.1+2-LTS-6
+2024-03-15T00:44:17,381+0700 [5996 1] com.newrelic INFO: OS Windows 11 version 10.0 arch amd64
+2024-03-15T00:44:17,381+0700 [5996 1] com.newrelic INFO: Agent Host: T2P-LAP059 IP: 192.168.1.8
+2024-03-15T00:44:17,381+0700 [5996 1] com.newrelic INFO: New Relic Agent v8.9.1 is initializing...
+2024-03-15T00:44:17,802+0700 [5996 20] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-03-15T00:44:18,781+0700 [5996 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-03-15T00:44:19,018+0700 [5996 1] com.newrelic INFO: Setting audit_mode to false
+2024-03-15T00:44:19,148+0700 [5996 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is C:\Users\tph02\Desktop\2fa\spring-google-authenticator-main\spring-google-authenticator-main\.\newrelic.yml
+2024-03-15T00:44:19,164+0700 [5996 1] com.newrelic INFO: New Relic Agent v8.9.1 has started
+2024-03-15T00:44:19,164+0700 [5996 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@73a28541
+2024-03-15T00:44:19,164+0700 [5996 1] com.newrelic INFO: Premain startup complete in 2,520ms
+2024-03-15T00:44:19,164+0700 [5996 1] com.newrelic WARN: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-03-15T00:44:23,003+0700 [5996 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.65
+2024-03-15T00:44:24,632+0700 [5996 1] com.newrelic INFO: ExpiringValueCache instance with timer: [urlToFactoryCache], timer interval: 28,800,000ms created
+2024-03-15T00:44:24,632+0700 [5996 1] com.newrelic INFO: ExpiringValueCache instance with timer: [urlToDatabaseNameCache], timer interval: 28,800,000ms created
+2024-03-15T00:44:29,182+0700 [5996 40] com.newrelic INFO: Host name is T2P-LAP059, display host T2P-LAP059 for application 2FA with agent
+2024-03-15T00:44:29,185+0700 [5996 40] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-03-15T00:44:31,006+0700 [5996 40] com.newrelic INFO: Collector redirection to collector.newrelic.com:443
+2024-03-15T00:44:33,632+0700 [5996 40] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2024-03-15T00:44:33,632+0700 [5996 40] com.newrelic INFO: Agent run id: Bf4i3Cnsv1q1AEL1TEEe7-9l8zfYAAIBAAAnIQEAABdsAgRBHwDwAwAFOC45LjEAClQyUC1MQVAwNTkADjJGQSB3aXRoIGFnZW50
+2024-03-15T00:44:33,632+0700 [5996 40] com.newrelic INFO: Agent 5996@T2P-LAP059/2FA with agent connected to collector.newrelic.com:443
+2024-03-15T00:44:33,632+0700 [5996 40] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/4388172/applications/1092550896
+2024-03-15T00:44:33,635+0700 [5996 40] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2024-03-15T00:44:33,635+0700 [5996 40] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2024-03-15T00:44:33,635+0700 [5996 40] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2024-03-15T00:44:33,637+0700 [5996 40] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2024-03-15T00:44:33,637+0700 [5996 40] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2024-03-15T00:44:33,637+0700 [5996 40] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2024-03-15T00:44:36,186+0700 [5996 40] com.newrelic INFO: Real user monitoring is enabled for application 2FA with agent. Auto instrumentation is enabled.
+2024-03-15T00:44:36,187+0700 [5996 40] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-03-15T00:56:43,514+0700 [5996 16] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-03-15T00:56:43,567+0700 [5996 44] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@5cf98a0 tried to finish but ServiceManager not started
+2024-03-15T00:56:44,717+0700 [5996 16] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
